@@ -10,13 +10,13 @@ const Header = () => {
           </a>
           <ul id="nav-mobile" className="right hide-on-med-and-down">
             <li>
-              <a href="sass.html">Sass</a>
+              <a href="#">About ME</a>
             </li>
             <li>
-              <a href="badges.html">Components</a>
+              <a href="#">Portfolio</a>
             </li>
             <li>
-              <a href="collapsible.html">JavaScript</a>
+              <a href="#">Contact ME</a>
             </li>
           </ul>
         </div>
