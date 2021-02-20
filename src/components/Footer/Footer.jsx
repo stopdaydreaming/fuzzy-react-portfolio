@@ -3,17 +3,11 @@ import "./Footer.css";
 
 const Footer = () => {
   return (
-    <div>
-      <footer className="page-footer indigo lighten-1">
-        <div className="container">
-        </div>
-        <div className="footer-copyright">
-          <div className="container">
-            &copy;2021. stopdaydreaming.com
-          </div>
-        </div>
-      </footer>
-    </div>
+    <footer class="footer mt-auto py-3 bg-light">
+      <div class="container">
+        <span class="text-muted">&copy;2021. stopdaydreaming.</span>
+      </div>
+    </footer>
   );
 };
 
