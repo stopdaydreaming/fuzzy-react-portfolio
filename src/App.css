@@ -68,3 +68,8 @@ body {
   filter: grayscale(100%);
   border: solid 7px #fff;
 }
+.page-title {
+  text-transform: uppercase;
+  font-weight: 900;
+  font-size: 3rem;
+}
