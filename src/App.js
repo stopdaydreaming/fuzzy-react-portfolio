@@ -7,10 +7,13 @@ import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Portfolio from "./pages/Portfolio";
 
+import './App.css';
+
 function App() {
   return (
     <Router>
       <div className="App">
+      <div className="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
         <Header />
         
         <Switch>
@@ -20,6 +23,7 @@ function App() {
         </Switch>
 
         <Footer />
+      </div>
       </div>
     </Router>
   );
