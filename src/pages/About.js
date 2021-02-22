@@ -6,10 +6,11 @@ const About = () => {
       <div className="row">
         <div className="col-12 mt-5">
           <h1 className="huge-text">PORTFOLIO</h1>
+          <h2>Lisa Copeland: UI Engineer</h2>
 
           <hr className="featurette-divider" />
 
-          <div className="row featurette">
+          <div className="row featurette mt-5">
             <div className="col-md-7">
               <h2 className="featurette-heading">
                 FrontEnd Developer{" "}
