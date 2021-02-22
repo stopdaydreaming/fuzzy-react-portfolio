@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fuzzy-react-portfolio/static/css/main.544ce86d.chunk.css",
+    "main.js": "/fuzzy-react-portfolio/static/js/main.4e7299b4.chunk.js",
+    "main.js.map": "/fuzzy-react-portfolio/static/js/main.4e7299b4.chunk.js.map",
+    "runtime-main.js": "/fuzzy-react-portfolio/static/js/runtime-main.5784f3da.js",
+    "runtime-main.js.map": "/fuzzy-react-portfolio/static/js/runtime-main.5784f3da.js.map",
+    "static/js/2.3dc39564.chunk.js": "/fuzzy-react-portfolio/static/js/2.3dc39564.chunk.js",
+    "static/js/2.3dc39564.chunk.js.map": "/fuzzy-react-portfolio/static/js/2.3dc39564.chunk.js.map",
+    "static/js/3.5ba88a93.chunk.js": "/fuzzy-react-portfolio/static/js/3.5ba88a93.chunk.js",
+    "static/js/3.5ba88a93.chunk.js.map": "/fuzzy-react-portfolio/static/js/3.5ba88a93.chunk.js.map",
+    "index.html": "/fuzzy-react-portfolio/index.html",
+    "static/css/main.544ce86d.chunk.css.map": "/fuzzy-react-portfolio/static/css/main.544ce86d.chunk.css.map",
+    "static/js/2.3dc39564.chunk.js.LICENSE.txt": "/fuzzy-react-portfolio/static/js/2.3dc39564.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5784f3da.js",
+    "static/js/2.3dc39564.chunk.js",
+    "static/css/main.544ce86d.chunk.css",
+    "static/js/main.4e7299b4.chunk.js"
+  ]
+}
