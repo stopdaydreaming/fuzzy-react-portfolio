@@ -5,24 +5,27 @@ const About = () => {
     <div className="container">
       <div className="row">
         <div className="col-12 mt-5">
-          <h1>About Page</h1>
+          <h1 className="huge-text">PORTFOLIO</h1>
 
-          <hr class="featurette-divider" />
+          <hr className="featurette-divider" />
 
-          <div class="row featurette">
-            <div class="col-md-7">
-              <h2 class="featurette-heading">
-                First featurette heading.{" "}
-                <span class="text-muted">It’ll blow your mind.</span>
+          <div className="row featurette">
+            <div className="col-md-7">
+              <h2 className="featurette-heading">
+                Front-end Developer.{" "}
+                <span className="text-muted">
+                  <br />I design and develop easy to use, user-friendly,
+                  optimized and responsive websites and applications
+                </span>
               </h2>
-              <p class="lead">
-                Some great placeholder content for the first featurette here.
-                Imagine some exciting prose here.
+              <p className="lead">
+                I have hands-on experience efficiently coding websites and
+                applications using modern HTML, CSS, and JavaScript.
               </p>
             </div>
-            <div class="col-md-5">
+            <div className="col-md-5">
               <svg
-                class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto"
+                className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto"
                 width="500"
                 height="500"
                 xmlns="http://www.w3.org/2000/svg"
@@ -40,23 +43,26 @@ const About = () => {
             </div>
           </div>
 
-          <hr class="featurette-divider" />
+          <hr className="featurette-divider" />
 
-          <div class="row featurette">
-            <div class="col-md-7 order-md-2">
-              <h2 class="featurette-heading">
-                Oh yeah, it’s that good.{" "}
-                <span class="text-muted">See for yourself.</span>
+          <div className="row featurette">
+            <div className="col-md-7 order-md-2">
+              <h2 className="featurette-heading">
+                Georgia Tech Bootcamp{" "}
+                <span className="text-muted">
+                  <br />
+                  Full Stack Developer
+                </span>
               </h2>
-              <p class="lead">
-                Another featurette? Of course. More placeholder content here to
-                give you an idea of how this layout would work with some actual
-                real-world content in place.
+              <p className="lead">
+                I am currently attending the Georgia Tech Fullstack Bootcamp,
+                where I will earn a certificate in full stack development,
+                specifically the MERN stack.
               </p>
             </div>
-            <div class="col-md-5 order-md-1">
+            <div className="col-md-5 order-md-1">
               <svg
-                class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto"
+                className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto"
                 width="500"
                 height="500"
                 xmlns="http://www.w3.org/2000/svg"
@@ -74,23 +80,27 @@ const About = () => {
             </div>
           </div>
 
-          <hr class="featurette-divider" />
+          <hr className="featurette-divider" />
 
-          <div class="row featurette">
-            <div class="col-md-7">
-              <h2 class="featurette-heading">
-                And lastly, this one. <span class="text-muted">Checkmate.</span>
+          <div className="row featurette mb-5">
+            <div className="col-md-7">
+              <h2 className="featurette-heading">
+                Soft Skills
+                <span className="text-muted">
+                  <br />
+                  Team Player and life long learner
+                </span>
               </h2>
-              <p class="lead">
-                And yes, this is the last block of representative placeholder
-                content. Again, not really intended to be actually read, simply
-                here to give you a better view of what this would look like with
-                some actual content. Your content.
+              <p className="lead">
+                I have excellent verbal and written communication, time
+                management with attention to detail skills. A creative with the
+                ability to work in high-pressure work environments and meet
+                tight deadlines. I also enjoy collaboration.
               </p>
             </div>
-            <div class="col-md-5">
+            <div className="col-md-5">
               <svg
-                class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto"
+                className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto"
                 width="500"
                 height="500"
                 xmlns="http://www.w3.org/2000/svg"
@@ -108,7 +118,7 @@ const About = () => {
             </div>
           </div>
 
-          <hr class="featurette-divider" />
+          <hr className="featurette-divider" />
         </div>
       </div>
     </div>
