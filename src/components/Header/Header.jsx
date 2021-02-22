@@ -1,60 +1,26 @@
 import React from "react";
+import './Header.css';
 
 const Header = () => {
   return (
-    <header>
-      <div class="collapse bg-dark" id="navbarHeader">
-        <div class="container">
-          <div class="row">
-            <div class="col-sm-8 col-md-7 py-4">
-              <h4 class="text-white">stopdaydreaming</h4>
-              <p class="text-muted">
-                I re-created my developer portfolio using ReactJS and Bootstrap.
-                Take a peak at some of my recent projects and learn a bit more about me.
-              </p>
-            </div>
-            <div class="col-sm-4 offset-md-1 py-4">
-              <h4 class="text-white">MENU</h4>
-              <ul class="list-unstyled">
-                <li>
-                  <a href="#" class="text-white">
-                    About ME
-                  </a>
-                </li>
-                <li>
-                  <a href="#" class="text-white">
-                    Portfolio
-                  </a>
-                </li>
-                <li>
-                  <a href="#" class="text-white">
-                    Contact ME
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
+    <>
+      <header className="mb-auto">
+        <div>
+          <h3 className="float-md-start mb-0">stopdaydreaming</h3>
+          <nav className="nav nav-masthead justify-content-center float-md-end">
+            <a className="nav-link nav-menu" href="/">
+              about
+            </a>
+            <a className="nav-link nav-menu" href="/portfolio">
+              portfolio
+            </a>
+            <a className="nav-link nav-menu" href="/contact">
+              contact
+            </a>
+          </nav>
         </div>
-      </div>
-      <div class="navbar navbar-dark bg-dark shadow-sm">
-        <div class="container">
-          <a href="#" class="navbar-brand d-flex align-items-center">
-            <strong>stopdaydreaming</strong>
-          </a>
-          <button
-            class="navbar-toggler"
-            type="button"
-            data-bs-toggle="collapse"
-            data-bs-target="#navbarHeader"
-            aria-controls="navbarHeader"
-            aria-expanded="false"
-            aria-label="Toggle navigation"
-          >
-            <span class="navbar-toggler-icon"></span>
-          </button>
-        </div>
-      </div>
-    </header>
+      </header>
+    </>
   );
 };
 
