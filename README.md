@@ -4,7 +4,7 @@
 Developer Portfolio built using ReactJS technology.
 - create react app
 - react router
-- [Materialize](https://materializecss.com/
+- Boostrap 
 
 
 ## Table of Contents
