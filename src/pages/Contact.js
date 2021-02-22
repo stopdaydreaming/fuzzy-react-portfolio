@@ -5,9 +5,9 @@ const Contact = () => {
     <div className="container">
       <div className="row">
         <div className="col-12 mt-5">
-          <h1>Contact Page</h1>
+          <h1 className="page-title">Contact Me</h1>
           <form>
-            <div className="mb-3">
+            <div className="mb-3 mt-5">
               <label htmlFor="fullName" className="form-label">
                 Full Name
               </label>
@@ -30,7 +30,7 @@ const Contact = () => {
               </label>
               <input type="password" className="form-control" id="password" />
             </div>
-            <button type="submit" className="btn btn-outline-light">
+            <button type="submit" className="btn btn-outline-light btn-lg">
               Submit
             </button>
           </form>
