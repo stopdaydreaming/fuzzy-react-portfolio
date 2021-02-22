@@ -19,7 +19,7 @@ body {
   box-shadow: inset 0 0 5rem rgba(0, 0, 0, 0.5);
   /* //added styles */
   font-family: "Poppins", sans-serif;
-  background: url('https://images.unsplash.com/photo-1605756079382-769b24f0509c?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=634&q=80');
+  background: url('https://images.unsplash.com/photo-1611320400468-dd7ba569ee44?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1576&q=80');
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -61,4 +61,10 @@ body {
 }
 .bg-black {
   background-color: #212529!important;
+}
+.img-thumb {
+  width: 300px;
+  height: 300px;
+  filter: grayscale(100%);
+  border: solid 7px #fff;
 }
