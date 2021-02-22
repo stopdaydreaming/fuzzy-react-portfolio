@@ -12,7 +12,7 @@ const About = () => {
           <div className="row featurette">
             <div className="col-md-7">
               <h2 className="featurette-heading">
-                Front-end Developer.{" "}
+                FrontEnd Developer{" "}
                 <span className="text-muted">
                   <br />I design and develop easy to use, user-friendly,
                   optimized and responsive websites and applications
@@ -24,34 +24,23 @@ const About = () => {
               </p>
             </div>
             <div className="col-md-5">
-              <svg
-                className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto"
-                width="500"
-                height="500"
-                xmlns="http://www.w3.org/2000/svg"
-                role="img"
-                aria-label="Placeholder: 500x500"
-                preserveAspectRatio="xMidYMid slice"
-                focusable="false"
-              >
-                <title>Placeholder</title>
-                <rect width="100%" height="100%" fill="#eee" />
-                <text x="50%" y="50%" fill="#aaa" dy=".3em">
-                  500x500
-                </text>
-              </svg>
+              <img
+                className="img-thumb"
+                src="../assets/photo_01.jpg"
+                alt="profile photo"
+              />
             </div>
           </div>
 
           <hr className="featurette-divider" />
 
           <div className="row featurette">
-            <div className="col-md-7 order-md-2">
+            <div className="col-md-6 order-md-2">
               <h2 className="featurette-heading">
-                Georgia Tech Bootcamp{" "}
+                Full Stack Developer{" "}
                 <span className="text-muted">
                   <br />
-                  Full Stack Developer
+                  Georgia Tech Bootcamp
                 </span>
               </h2>
               <p className="lead">
@@ -60,23 +49,12 @@ const About = () => {
                 specifically the MERN stack.
               </p>
             </div>
-            <div className="col-md-5 order-md-1">
-              <svg
-                className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto"
-                width="500"
-                height="500"
-                xmlns="http://www.w3.org/2000/svg"
-                role="img"
-                aria-label="Placeholder: 500x500"
-                preserveAspectRatio="xMidYMid slice"
-                focusable="false"
-              >
-                <title>Placeholder</title>
-                <rect width="100%" height="100%" fill="#eee" />
-                <text x="50%" y="50%" fill="#aaa" dy=".3em">
-                  500x500
-                </text>
-              </svg>
+            <div className="col-md-6 order-md-1">
+              <img
+                className="img-thumb"
+                src="../assets/photo_02.jpg"
+                alt="profile photo"
+              />
             </div>
           </div>
 
@@ -99,22 +77,11 @@ const About = () => {
               </p>
             </div>
             <div className="col-md-5">
-              <svg
-                className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto"
-                width="500"
-                height="500"
-                xmlns="http://www.w3.org/2000/svg"
-                role="img"
-                aria-label="Placeholder: 500x500"
-                preserveAspectRatio="xMidYMid slice"
-                focusable="false"
-              >
-                <title>Placeholder</title>
-                <rect width="100%" height="100%" fill="#eee" />
-                <text x="50%" y="50%" fill="#aaa" dy=".3em">
-                  500x500
-                </text>
-              </svg>
+              <img
+                className="img-thumb"
+                src="../assets/photo_03.jpg"
+                alt="profile photo"
+              />
             </div>
           </div>
 
