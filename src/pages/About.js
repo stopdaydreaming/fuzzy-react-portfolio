@@ -1,88 +1,55 @@
 import React from "react";
+import photo from '../assets/photo_01.jpg'
 
 const About = () => {
   return (
     <div className="container">
       <div className="row">
         <div className="col-12 mt-5">
-          <h1 className="huge-text">PORTFOLIO</h1>
-          <h2>Lisa Copeland: UI Engineer</h2>
+          <h1 className="huge-text">About</h1>
 
           <hr className="featurette-divider" />
 
           <div className="row featurette mt-5">
-            <div className="col-md-7">
-              <h2 className="featurette-heading">
-                FrontEnd Developer{" "}
-                <span className="text-muted">
-                  <br />I design and develop easy to use, user-friendly,
-                  optimized and responsive websites and applications
-                </span>
-              </h2>
-              <p className="lead">
-                I have hands-on experience efficiently coding websites and
-                applications using modern HTML, CSS, and JavaScript.
-              </p>
-            </div>
-            <div className="col-md-5">
-              <img
-                className="img-thumb"
-                src="../assets/photo_01.jpg"
+            <div className="col-md-12">
+            <img
+                className="img-thumb m-3"
+                src={photo}
                 alt="profile photo"
               />
             </div>
+
           </div>
-
-          <hr className="featurette-divider" />
-
-          <div className="row featurette">
-            <div className="col-md-6 order-md-2">
-              <h2 className="featurette-heading">
-                Full Stack Developer{" "}
-                <span className="text-muted">
-                  <br />
-                  Georgia Tech Bootcamp
-                </span>
-              </h2>
-              <p className="lead">
-                I am currently attending the Georgia Tech Fullstack Bootcamp,
-                where I will earn a certificate in full stack development,
-                specifically the MERN stack.
-              </p>
-            </div>
-            <div className="col-md-6 order-md-1">
-              <img
-                className="img-thumb"
-                src="../assets/photo_02.jpg"
-                alt="profile photo"
-              />
-            </div>
-          </div>
-
-          <hr className="featurette-divider" />
 
           <div className="row featurette mb-5">
             <div className="col-md-7">
               <h2 className="featurette-heading">
-                Soft Skills
-                <span className="text-muted">
+                Find me online
+                <span className="text-muted m-3">
                   <br />
-                  Team Player and life long learner
+                  Here are a few links for contacting me.
                 </span>
               </h2>
-              <p className="lead">
-                I have excellent verbal and written communication, time
-                management with attention to detail skills. A creative with the
-                ability to work in high-pressure work environments and meet
-                tight deadlines. I also enjoy collaboration.
-              </p>
-            </div>
-            <div className="col-md-5">
-              <img
-                className="img-thumb"
-                src="../assets/photo_03.jpg"
-                alt="profile photo"
-              />
+      
+              <a
+                href="https://github.com/stopdaydreaming"
+                class="fa-icons text-light m-3"
+                ><i class="fab fa-lg fa-github"></i
+              ></a>&nbsp;
+              <a
+                href="https://www.linkedin.com/in/lisa-copeland-598404153/"
+                class="fa-icons text-light m-3"
+                ><i class="fab fa-lg fa-linkedin-in"></i
+              ></a>&nbsp;
+              <a
+                href="mailto:hello@stopdaydreaming.com"
+                class="fa-icons text-light m-3"
+                ><i class="fas fa-lg fa-envelope-square"></i
+              ></a>&nbsp;
+              <a href="tel:6782354961" class="fa-icons text-light"
+                ><i class="fas fa-lg fa-phone m-3"></i
+              ></a>
+
             </div>
           </div>
 
@@ -90,6 +57,7 @@ const About = () => {
         </div>
       </div>
     </div>
+
   );
 };
 
