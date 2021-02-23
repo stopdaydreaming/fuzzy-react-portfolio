@@ -1,22 +1,29 @@
 {
   "files": {
     "main.css": "/fuzzy-react-portfolio/static/css/main.f6c1842e.chunk.css",
-    "main.js": "/fuzzy-react-portfolio/static/js/main.f9c10c9c.chunk.js",
-    "main.js.map": "/fuzzy-react-portfolio/static/js/main.f9c10c9c.chunk.js.map",
-    "runtime-main.js": "/fuzzy-react-portfolio/static/js/runtime-main.5784f3da.js",
-    "runtime-main.js.map": "/fuzzy-react-portfolio/static/js/runtime-main.5784f3da.js.map",
-    "static/js/2.32f49623.chunk.js": "/fuzzy-react-portfolio/static/js/2.32f49623.chunk.js",
-    "static/js/2.32f49623.chunk.js.map": "/fuzzy-react-portfolio/static/js/2.32f49623.chunk.js.map",
-    "static/js/3.5ba88a93.chunk.js": "/fuzzy-react-portfolio/static/js/3.5ba88a93.chunk.js",
-    "static/js/3.5ba88a93.chunk.js.map": "/fuzzy-react-portfolio/static/js/3.5ba88a93.chunk.js.map",
+    "main.js": "/fuzzy-react-portfolio/static/js/main.8c91b47d.chunk.js",
+    "main.js.map": "/fuzzy-react-portfolio/static/js/main.8c91b47d.chunk.js.map",
+    "runtime-main.js": "/fuzzy-react-portfolio/static/js/runtime-main.9ae163a0.js",
+    "runtime-main.js.map": "/fuzzy-react-portfolio/static/js/runtime-main.9ae163a0.js.map",
+    "static/js/2.ba47dbc4.chunk.js": "/fuzzy-react-portfolio/static/js/2.ba47dbc4.chunk.js",
+    "static/js/2.ba47dbc4.chunk.js.map": "/fuzzy-react-portfolio/static/js/2.ba47dbc4.chunk.js.map",
+    "static/js/3.b3e1bea2.chunk.js": "/fuzzy-react-portfolio/static/js/3.b3e1bea2.chunk.js",
+    "static/js/3.b3e1bea2.chunk.js.map": "/fuzzy-react-portfolio/static/js/3.b3e1bea2.chunk.js.map",
     "index.html": "/fuzzy-react-portfolio/index.html",
     "static/css/main.f6c1842e.chunk.css.map": "/fuzzy-react-portfolio/static/css/main.f6c1842e.chunk.css.map",
-    "static/js/2.32f49623.chunk.js.LICENSE.txt": "/fuzzy-react-portfolio/static/js/2.32f49623.chunk.js.LICENSE.txt"
+    "static/js/2.ba47dbc4.chunk.js.LICENSE.txt": "/fuzzy-react-portfolio/static/js/2.ba47dbc4.chunk.js.LICENSE.txt",
+    "static/media/coding-quiz.69db461e.png": "/fuzzy-react-portfolio/static/media/coding-quiz.69db461e.png",
+    "static/media/day-planner.49262e0f.png": "/fuzzy-react-portfolio/static/media/day-planner.49262e0f.png",
+    "static/media/eat-da-burger.653490dd.png": "/fuzzy-react-portfolio/static/media/eat-da-burger.653490dd.png",
+    "static/media/password-generator.0ad88440.png": "/fuzzy-react-portfolio/static/media/password-generator.0ad88440.png",
+    "static/media/photo_01.66e3fbbc.jpg": "/fuzzy-react-portfolio/static/media/photo_01.66e3fbbc.jpg",
+    "static/media/team-profile.75989e9f.jpg": "/fuzzy-react-portfolio/static/media/team-profile.75989e9f.jpg",
+    "static/media/weather-dashboard.b9679339.png": "/fuzzy-react-portfolio/static/media/weather-dashboard.b9679339.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5784f3da.js",
-    "static/js/2.32f49623.chunk.js",
+    "static/js/runtime-main.9ae163a0.js",
+    "static/js/2.ba47dbc4.chunk.js",
     "static/css/main.f6c1842e.chunk.css",
-    "static/js/main.f9c10c9c.chunk.js"
+    "static/js/main.8c91b47d.chunk.js"
   ]
 }
