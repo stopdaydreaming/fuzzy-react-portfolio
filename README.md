@@ -32,7 +32,7 @@ Click this link to [VIEW APP](#)
 
 ## Usage 
 This code should be used for the purpose of creating/editing code for a simple portfolio website.
-![portfolio](./assets/images/screenshot.png)
+![portfolio](./src/assets/screenshot.png)
 
 ## View Website
 Click here to view the live website [VIEW SITE](https://stopdaydreaming.github.io/fuzzy-react-portfolio/)
@@ -40,6 +40,7 @@ Click here to view the live website [VIEW SITE](https://stopdaydreaming.github.i
 
 ## Credits
 1 contributor: @stopdaydreaming  
+special thanks to my amazing tutor
 
 ## License
 Copyright (c) Lisa Copeland. All rights reserved.  
