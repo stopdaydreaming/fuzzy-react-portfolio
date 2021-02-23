@@ -25,10 +25,10 @@ const Contact = () => {
               <input type="email" className="form-control" id="email" />
             </div>
             <div className="mb-3">
-              <label htmlFor="password" className="form-label" autoComplete="current-password">
+              <label htmlFor="password" className="form-label">
                 Password
               </label>
-              <input type="password" className="form-control" id="password" />
+              <input type="password" className="form-control" id="password" autocomplete="current-password"/>
             </div>
             <button type="submit" className="btn btn-outline-light btn-lg">
               Submit
