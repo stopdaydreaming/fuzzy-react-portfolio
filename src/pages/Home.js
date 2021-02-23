@@ -29,7 +29,7 @@ const Home = () => {
           <hr className="featurette-divider" />
 
           <div className="row featurette">
-            <div className="col-md-6 order-md-2">
+            <div className="col-md-10 order-md-2">
               <h2 className="featurette-heading">
                 Full Stack Developer{" "}
                 <span className="text-muted">
@@ -43,19 +43,12 @@ const Home = () => {
                 specifically the MERN stack.
               </p>
             </div>
-            <div className="col-md-6 order-md-1">
-              <img
-                className="img-thumb"
-                src=""
-                alt="profile photo"
-              />
-            </div>
           </div>
 
           <hr className="featurette-divider" />
 
           <div className="row featurette mb-5">
-            <div className="col-md-7">
+            <div className="col-md-10">
               <h2 className="featurette-heading">
                 Soft Skills
                 <span className="text-muted">
@@ -69,13 +62,6 @@ const Home = () => {
                 ability to work in high-pressure work environments and meet
                 tight deadlines. I also enjoy collaboration.
               </p>
-            </div>
-            <div className="col-md-5">
-              <img
-                className="img-thumb"
-                src=""
-                alt="profile photo"
-              />
             </div>
           </div>
 
